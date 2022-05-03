@@ -1,6 +1,5 @@
 ### Hello my name is Nailton👋
 
-- 🔭 I’m currently working on reporting failures
 - 🌱 I’m currently learning web development and android development✅
 - 📫 How to reach me: Nailton_junior@protonmail.com
 
