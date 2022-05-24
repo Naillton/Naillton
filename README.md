@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning web development and android development✅
 - 📫 How to reach me: Nailton_junior@protonmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/nailtonjr/
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naillton&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
