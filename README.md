@@ -22,8 +22,8 @@
   - 🔧 [ToDoListAPI](https://github.com/Naillton/ToDoListAPI)  
     API RESTful para gerenciamento de tarefas, desenvolvida com .NET 8 e arquitetura limpa.
   
-  - 📱 [Nome do Projeto React Native](https://github.com/Naillton/...)  
-    Aplicativo mobile com funcionalidades de rede social, feito com React Native.
+  - 📱 [Nome do Projeto React Native]((https://github.com/Naillton/GeneratePassword))  
+    Aplicativo web com funcionalidades de gerar e embaralhar palavras para criar senhas fortes, desenvolvido em React.
 </div>
 
 ---
